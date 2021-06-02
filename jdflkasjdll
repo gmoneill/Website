@@ -1,0 +1,66 @@
+[33mcommit 567252e80a3171e4dd964e62c4a0fcb1f31c66c6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Gabriella Caldarone <Gabriella.caldarone1995@gmail.com>
+Date:   Wed Jun 2 14:34:28 2021 -0500
+
+    Add an h1 tag
+
+[1mdiff --git a/index2.html b/index2.html[m
+[1mindex 4b5fa63..45d754a 100644[m
+[1m--- a/index2.html[m
+[1m+++ b/index2.html[m
+[36m@@ -1 +1 @@[m
+[31m-hello, world[m
+[32m+[m[32m<h1>hello, world</h1>[m
+
+[33mcommit ca8b9345708699d1fecff9634ed70f471b790515[m
+Author: Gabriella Caldarone <Gabriella.caldarone1995@gmail.com>
+Date:   Wed Jun 2 14:30:02 2021 -0500
+
+    Add Baz
+
+[1mdiff --git a/baz b/baz[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit dfed8be59615e9e943ee1a836602dd7fa76fd0de[m
+Author: Gabriella Caldarone <Gabriella.caldarone1995@gmail.com>
+Date:   Wed Jun 2 14:28:27 2021 -0500
+
+    Add content to index2.html
+
+[1mdiff --git a/index2.html b/index2.html[m
+[1mindex e69de29..4b5fa63 100644[m
+[1m--- a/index2.html[m
+[1m+++ b/index2.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhello, world[m
+
+[33mcommit 280f1dc1f6d9512089b802fe225576e61a949f5b[m
+Author: Gabriella Caldarone <Gabriella.caldarone1995@gmail.com>
+Date:   Wed Jun 2 14:26:55 2021 -0500
+
+    Add bar.txt
+
+[1mdiff --git a/bar.txt b/bar.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 995092cbb8ffced9349efee7d7f10289b626af37[m
+Author: Gabriella Caldarone <Gabriella.caldarone1995@gmail.com>
+Date:   Wed Jun 2 14:26:03 2021 -0500
+
+    Add foo.txt
+
+[1mdiff --git a/foo.txt b/foo.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit e71c8ccb69228167f0257e478dc526b64d4570ac[m
+Author: Gabriella Caldarone <Gabriella.caldarone1995@gmail.com>
+Date:   Wed Jun 2 14:22:40 2021 -0500
+
+    Initialize repository
+
+[1mdiff --git a/index2.html b/index2.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
